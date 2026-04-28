@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Alegent Calendar Organizer",
+    "slug": "alegent-calendar-organizer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#020617"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#020617"
+      },
+      "package": "com.aliagent.agenda"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f20641b0-386e-4fd3-ba38-02265d8874e0"
+      }
+    }
+  }
+}
